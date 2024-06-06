@@ -1,0 +1,22 @@
+thereact94@gmail.com
+Welc0me_123
+0663d5005c282a5d432640bcc592d9c0
+
+
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=0663d5005c282a5d432640bcc592d9c0
+
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=0663d5005c282a5d432640bcc592d9c0
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=0663d5005c282a5d432640bcc592d9c0
+
+Top Rated:
+https://api.themoviedb.org/3/movie/top_rated?api_key=0663d5005c282a5d432640bcc592d9c0
+
+Upcoming: 
+https://api.themoviedb.org/3/movie/upcoming?api_key=0663d5005c282a5d432640bcc592d9c0
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=0663d5005c282a5d432640bcc592d9c0&query={movie_name}
